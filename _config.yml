@@ -6,9 +6,9 @@ color:
   saturation: 0.8400914329104125
   rhythmicContrast: 0.04462794400751591
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
 name: MementoMori
